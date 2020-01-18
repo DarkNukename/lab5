@@ -1,0 +1,5 @@
+start cmd /k "cd ATE && manage.py runserver 8004 & pause"
+start cmd /k "cd gateway && manage.py runserver 8000 & pause"
+start cmd /k "cd Payment && manage.py runserver 8003 & pause"
+start cmd /k "cd Nuke && manage.py runserver 8085 & pause"
+start cmd /k "cd WorkList && manage.py runserver 8002  & pause"

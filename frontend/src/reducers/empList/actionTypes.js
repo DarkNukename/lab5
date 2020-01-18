@@ -1,0 +1,8 @@
+export const FETCH_EMPS = "FETCH_EMPS";
+export const FETCH_SUCCESS_EMPS = "SUCCESS_EMPS";
+export const FETCH_FAIL_EMPS = "FAIL_EMPS";
+
+export const DELETE_EMP = "DELETE_EMP";
+export const DELETE_SUCCESS_EMP = "DELETE_SUCCESS_EMP";
+export const DELETE_FAIL_EMP = "DELETE_FAIL_EMP";
+export const DELETE_HANDLED = "DELETE_HANDLED";

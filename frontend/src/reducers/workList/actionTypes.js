@@ -1,0 +1,8 @@
+export const FETCH_WORKS = "FETCH_WORKS";
+export const FETCH_SUCCESS_WORKS= "SUCCESS_WORKS";
+export const FETCH_FAIL_WORKS = "FAIL_WORKS";
+
+export const DELETE_WORK = "DELETE_WORK";
+export const DELETE_SUCCESS_WORK = "DELETE_SUCCESS_WORK";
+export const DELETE_FAIL_WORK = "DELETE_FAIL_WORK";
+export const DELETE_HANDLED = "worklist:DELETE_HANDLED";

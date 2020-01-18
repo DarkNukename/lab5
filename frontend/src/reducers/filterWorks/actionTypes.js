@@ -1,0 +1,1 @@
+export const FILTER_WORKS = "FILTER_WORKS";
